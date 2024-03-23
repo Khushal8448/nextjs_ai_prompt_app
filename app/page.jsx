@@ -1,5 +1,5 @@
 const Home = () => {
-  return <div>Home</div>;
+  return <section className="w-full flex-center flex-col">Home</section>;
 };
 
 export default Home;
